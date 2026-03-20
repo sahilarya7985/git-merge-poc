@@ -1,7 +1,7 @@
 public class Login {
     public static void main(String[] args){
 
-        System.out.print("Logging Successful with validation and logging");
+        System.out.print("Logging Successful");
 
 
     }
